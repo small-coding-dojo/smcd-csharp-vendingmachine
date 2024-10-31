@@ -6,8 +6,8 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>VendingMachine.Tests</RootNamespace>
     <TargetFramework>net8.0</TargetFramework>
-    <TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport>
-    <UseMicrosoftTestingPlatformRunner>true</UseMicrosoftTestingPlatformRunner>
+    <TestingPlatformDotnetTestSupport>false</TestingPlatformDotnetTestSupport>
+    <UseMicrosoftTestingPlatformRunner>false</UseMicrosoftTestingPlatformRunner>
   </PropertyGroup>
 
   <ItemGroup>

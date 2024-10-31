@@ -1,5 +1,8 @@
 This repository implements the vending machine kata by guyroyse: https://github.com/guyroyse/vending-machine-kata
 
+To run the tests due to xUnit 3 IDE not fully supported:
+dotnet run --project VendingMachine.Tests/VendingMachine.Tests.csproj
+
 
 Vending Machine Kata
 ====================
